@@ -1,5 +1,5 @@
 {
-    "name": "fx3costa/laravelchartjs",
+    "name": "prodrom/laravelchartjs",
     "description": "Simple package to facilitate and automate the use of charts in Laravel 5.x using Chartjs v2 library",
     "keywords": [
       "chartjs","laravel5","chart","reports","graphics", "fx3costa"
