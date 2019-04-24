@@ -1,4 +1,4 @@
-<canvas id="{!! $element !!}" width="{!! $size['width'] !!}" height="{!! $size['height'] !!}">
+<canvas id="{!! $element !!}" style="width: {!! $size['width'] !!}" height="{!! $size['height'] !!}">
 <script>
     document.addEventListener("DOMContentLoaded", function(event) {
         (function() {
